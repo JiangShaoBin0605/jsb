@@ -1,0 +1,3 @@
+include ':app'
+include ':WheelView'
+rootProject.name = "MoneyHistory"
